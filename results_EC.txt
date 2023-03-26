@@ -1,0 +1,21 @@
+The choose word is sale
+ The char z was not found! The error count is 1
+ The char e was found!
+ The char q was not found! The error count is 2
+ The char v was not found! The error count is 3
+ The char j was not found! The error count is 4
+ The char k was not found! The error count is 5
+ The char f was not found! The error count is 6
+ The char x was not found! The error count is 7
+ The char m was not found! The error count is 8
+ The user failed to found the word.The choose word is cricket
+ The char e was found!
+ The char o was not found! The error count is 1
+ The char a was not found! The error count is 2
+ The char t was not found! The error count is 3
+ The char m was not found! The error count is 4
+ The char r was not found! The error count is 5
+ The char i was not found! The error count is 6
+ The char s was not found! The error count is 7
+ The char h was not found! The error count is 8
+ The user failed to found the word.
